@@ -8,7 +8,7 @@
 </h3>
 
 <h1 align="center">
-    <img alt="Proffy" src="https://raw.githubusercontent.com/joaolobao380/Proffy/assets/Proffy-gif.gif" width="800px" />
+    <img alt="Proffy" src="https://raw.githubusercontent.com/joaolobao380/Proffy/assets/happy-gif.gif" width="800px" />
 </h1>
 
 ## :rocket: FRONT-END
