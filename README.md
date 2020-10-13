@@ -24,7 +24,7 @@
 ### Clone repository
 ```bash
 # Clone this repository
-$ git clone https://github.com/joaolobao380/Proffy.git
+$ git clone https://github.com/joaolobao380/frontend-happy.git
 ```
 
 
