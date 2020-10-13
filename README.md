@@ -1,10 +1,10 @@
 <h1 align="center">
     <img alt="Go Stack logo" src="https://github.com/joaolobao380/Proffy/blob/assets/nlw3.png?raw=true" />
     <br>
-    Proffy
+    Happy
 </h1>
 <h3 align="center">
-  App proffy [RocketSeat Next Level Week #2](https://nextlevelweek.com/inscricao/2)
+  App happy [RocketSeat Next Level Week #2](https://nextlevelweek.com/inscricao/3)
 </h3>
 
 <h1 align="center">
